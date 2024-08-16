@@ -1,0 +1,17 @@
+td{
+    line-height: 35px;
+    border: 2px solid grey;
+    margin: 100px;
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+    height: 50%;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+.producto_nombre{
+    font-weight: bold;
+}

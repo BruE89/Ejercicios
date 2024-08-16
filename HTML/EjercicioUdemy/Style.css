@@ -1,0 +1,21 @@
+body {
+    width: 60%;
+}
+
+h1 {
+    color: #f28f0c;
+    font-size:40px;
+}
+
+h2 {
+    color:blue;
+    font-size:30px;
+}
+
+img {
+    height:auto;
+    width:auto;
+    border-color: red;
+    border-width: 10px;
+    border-style: dotted;
+}

@@ -1,0 +1,69 @@
+h1{
+    color:cadetblue;
+}
+
+h2{
+    color: blue;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td{
+    padding: 5px;
+}
+
+.rojo_negrita{
+    color: red;
+    font-weight: bold;
+}
+
+.amarillo_negrita{
+    color: rgb(255, 187, 0);
+    font-weight: bold;
+}
+
+#rojo_subrayado{
+    color: red;
+    text-decoration: underline;
+}
+
+#azul_cursiva{
+    color: blue;
+    font-style: italic;
+}
+
+#violeta{
+    color: rgb(236, 9, 236);
+}
+
+#dorado{
+    color: rgb(255, 187, 0);
+}
+
+#cursiva{
+    font-style: italic;
+}
+
+#verde{
+    color: green;
+}
+
+#verde_claro{
+    color: rgb(126, 179, 2);
+}
+
+#verde_subrayado{
+    color: rgb(9, 104, 0);
+    text-decoration: underline;
+}
+
+#parrafo_espacio{
+    line-height: 2;
+}

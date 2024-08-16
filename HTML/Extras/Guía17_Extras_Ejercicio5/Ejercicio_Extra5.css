@@ -1,0 +1,22 @@
+#foto1{
+    max-width: 50%;
+}
+
+.container {
+    display: flex;
+    padding: 50px;
+    align-items: center;
+}
+.content {
+    flex: 0.5;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: lightgray;
+    margin-left: 20px;
+}
+
+.precio{
+    font-size: 40px;
+    font-weight: bold;
+}
